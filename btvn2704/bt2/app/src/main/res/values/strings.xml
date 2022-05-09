@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormValidate</string>
+    <string name="toast_submit">Submit thanh cong</string>
+    <string name="toast_message">Cần phải đồng ý điều khoản</string>
+</resources>
